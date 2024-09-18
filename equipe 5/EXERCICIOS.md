@@ -90,7 +90,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Divida o valor de \( 2^5 \) por 8.
 
 **R:** 
-
+4
 ---
 
 ## 14. Soma e Potenciação
